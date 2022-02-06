@@ -1,0 +1,6 @@
+bin/vault
+bin/terraform
+bin/consul
+bin/packer
+bin/vagrant
+*.swp
